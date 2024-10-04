@@ -1,0 +1,698 @@
+“A Pleasant Place for the World to Hide”:
+Exploring Themes of Utopian Play in Ready
+Player One
+justin nordstrom
+abstract
+Ernest Cline’s 2011 novel Ready Player One offers an imaginary world that
+is simultaneously utopian and dystopian, because it portrays an immersive
+game-obsessed world that fuses high-tech virtual reality with 1980s nostal-
+gia. Characters contrast their grim apocalyptic reality with escapism through
+worldwide gaming in the OASIS, a massively multiplayer VR world allowing
+players to travel into space, experience high fantasy, attend lavish parties, or
+simply socialize with friends. Cline’s novel achieved significant acclaim, but
+few writers have considered the scholarly merits of the book, particularly as an
+example of the overlapping functions of gaming and utopianism. This article
+examines Ready Player One alongside Bernard Suits’ philosophical approach
+to defining games and utopia. Ready Player One explicitly plays with ideas
+of eutopia and dystopia, games within games, reality and escapist play. As
+such, it is an excellent environment to examine Suits’ philosophy of games and
+showcase why gaming is essential to utopian fiction, particularly in the early
+twenty-first century. For Cline, games are equally necessary for a dytopia for
+much the same reason—they allow a creative and social “escape hatch” from
+the grim realities of futuristic decline.
+keywords: science fiction, contemporary fiction, game theory, utopianism
+Ernest Cline’s debut novel Ready Player One presents readers with a futuristic
+world steeped in paradox. Cline imagines an environment
+that is simultaneously eutopian and dystopian and depicts an ­ immersive
+­ game-obsessed world that fuses high-tech virtual reality with 1980s
+­ nostalgia. The characters contrast their grim apocalyptic reality (in the
+throes of worldwide economic, environmental, and social collapse) with
+escapism through worldwide gaming in the OASIS, a massively ­ multiplayer
+VR world that allows players to travel into space, experience high fantasy,
+attend lavish parties, or simply socialize with friends. The narrator and
+protagonist, a teenage boy named Wade Watts, achieves stardom in the
+OASIS by finding keys to a giant puzzle, programmed into the VR environ-
+ment as a decade-long “Easter Egg Hunt” that promises tremendous wealth
+and prestige to whoever completes the game’s riddles and challenges.
+Pursing his online quest to gather clues for the “Hunt,” Wade taps into the
+trivia of the 1980s (the favorite decade of the OASIS’ programmer, and pop
+culture icon, James Halliday). As a result, Ready Player One is a montage of
+futuristic dystopianism, retro 1980s kitsch, and virtual reality gaming, all
+in the form of a Willy-Wonka-esque quest to find a hidden reward in an
+­ over-the-top fantasy setting.1
+Ready Player One has achieved significant attention since its publica-
+tion in 2011, earning the Prometheus Award for Science Fiction and the
+American Library Association’s Alex Award (both in 2012).2 It was reviewed
+by the New York Times, London Guardian, and several science fiction and
+mass-market periodicals, and was quickly optioned by Warner Brothers
+(although plans to adapt the novel to the big screen have recently stalled).
+Considering the book’s emphasis on gamers and pop culture, most reviewers
+describe Cline’s novel as an homage to the 1980s and a tribute to games and
+geekery. Reviewer Chris Kammerud, for instance, described Ready Player
+One as “A love story, and epic quest, an interstellar adventure, and a carnival
+of Gen-X nostalgia”3 Writer John Scalzi, reflecting on the book’s emphasis
+on role-playing adventures, John Hughes movies, and video games, summed
+the book up more succinctly, calling Cline’s novel “a nerdgasm.”4
+Nevertheless, scholars of popular culture and science fiction have not
+yet considered the scholarly merits of Ready Player One, particularly as an
+example of the overlapping functions of gaming and utopianism. In par-
+ticular, Cline’s novel presents some of the same tensions that motivate other
+classic utopian texts—such as an ambiguously eutopian/ dystopian setting
+and characters that look forward to a futuristic environment while glancing
+backward at the past.
+In this article, I examine Ready Player One from two overlapping perspec-
+tives. First, I discuss Ready Player One as an expression of the interplay
+between utopian and dystopia, demonstrating the malleability of these terms
+in Cline’s description of a global gaming community. Second, I argue that
+Ready Player One provides significant insight into two important theories
+of game play and its utopian possibilities—Bernard Suits’ The Grasshopper:
+Games, Life and Utopia (originally published in 1978) and Jane McGonigal’s
+Reality Is Broken: Why Games Make Us Better and How They Change the
+World (2011). Taken together, writings by Cline, Suits, and McGonigal all
+demonstrate that utopian aspiration and game play are inherently interre-
+lated. These writers share an understanding that games and play, far from
+being frivolous distractions or mindless pursuits, become an integral part of
+individual happiness and group cohesion. For each of these writers, gaming
+and utopia can go hand in hand.5
+Yet, while Suits presents a one-dimensional vision of games as the sole
+activity in achieving “the good life” and experiencing utopia, Cline and
+McGonigal express reservations. For these writers, as well as the charac-
+ters in Ready Player One, gaming is a double-edged sword with dystopian
+as well as utopian traits. Players, McGonigal and Cline remind us, experi-
+ence extremes of elation and despair. And, their work suggests, games can
+be promote social interaction and enhance relationships but can also give
+participants a reason to withdraw into isolation, indifferent to the world
+around them. As one of the OASIS programmers admits in Ready Player
+One, games can help improve a world beset by complex problems, or they
+can be “a pleasant place for the world to hide.”6 Cline’s work succeeds, both
+as an engaging novel and as a window into the utopian genre, because he
+avoids a simplistic vision of utopian play expressed by Bernard Suits and
+embraces the paradoxical notion that play can be disruptive, even detri-
+mental, to individual happiness and society as a whole. This view, demon-
+strated by McGonigal, permeates Ready Player One as Cline demonstrates
+both the utopian and dystopian possibilities of gaming in a futuristic world.
+a utopia based on play?
+The most essential and important feature of the utopian genre is its malle-
+ability. Utopian aspirations rely fundamentally on an interplay between
+the author’s imagined utopian world and the conventional world of the
+reader. The term “interplay” here is appropriate, because the act of writing a
+utopian novel is itself a form of play—a way of gamifying (which, as will be
+demonstrated below, essentially means “enjoyably complicating”) the social
+theorization or polemicizing that is part of the utopian project.
+Nevertheless, a focus on games and play might seem like an unusual
+perspective on the utopian genre. After all, in utopian classics written
+in the sixteenth through early twentieth centuries, games and play form
+a peripheral part of the central narrative. Characters in utopian fiction,
+such as More’s Utopia, Bellamy’s Looking Backward, and Gilman’s Herland
+(a brief sample of classic utopias to which dozens more could be added)
+occasionally engage in forms of play, but these activities do not elicit much
+discussion or explanation. In Charlotte Perkins Gilman’s all-female utopia
+Herland, for instance, women play a game using a tripod of sticks, with a
+stone balanced at the center. The goal for Herlanders is to carefully knock
+off the stone without disrupting the sticks underneath. The novel’s male
+visitors misunderstand this and flight rocks with all their might, knocking
+down the whole structure. Thus, a seemingly enjoyable act of play becomes
+a metaphor for men’s brute force and aggression. Likewise, More’s Utopia
+­ features a checkerslike board game, in which virtues capture ­ vices—a
+demonstration, More suggests, of how Utopians find ways to include
+­ moralistic instruction even in leisure time.7 Yet, while traditional utopias
+are not completely devoid of games, readers are left with the impression
+that utopians are ­ nose-to-the-grindstone types. Perfecting society, uto-
+pian authors are want to point out, is not a frivolous task. Games, when
+they are mentioned at all, generally serve to highlight important roles and
+­ responsibilities—reinforcing utopians’ social hierarchies or moral sensibili-
+ties. Utopians might play games, but they don’t just play for fun.
+Recently, however, utopian scholars have challenged this assumption,
+particularly Philip Abbott in his essay “Utopians at Play.” Abbott begins by
+recognizing that utopianism “has been widely criticized as [a genre] that
+is especially characterized by its absence of play. Activity that is enjoyable,
+lacking extrinsic goals . . . spontaneous and voluntary is regarded by crit-
+ics as the antimony of utopia.” Abbott cites Jean Elshtain, Leonard Shapiro,
+Karl Popper, and other scholars who regard utopia as antithetical to play
+(I would add Edward Rothstein and Krisna Kumar to this list).8
+Yet unlike these writers, Abbott insists that “there is an identifiable
+domain of play in the utopian genre” not merely in “authorial playfulness”
+but in the “actual presentation of games, festivals and recreation in the
+accounts of everyday life in utopia.” In other words, utopian writers such as
+Plato, Bacon, Bellamy, Gilman, Piercy, and others demonstrate utopian play
+in two ways. Through puns, jokes, nonsense words, and banter, utopian
+writers (especially More himself) embrace playfulness and wordplay. And,
+by imagining games and festivals, utopian authors reveal their characters
+not only as diligent worker bees building a perfect society, but as human
+beings enjoying themselves. Thus, Abbott concludes, “Playfulness enables
+the utopian author to keep his project framed in an imaginative realm and
+thus avoid the anti-utopian charge of utopian boredom and totalitarian-
+ism.”9 Ultimately, utopian visions could not possibly be antithetical to play
+and games. How could they be, we might wonder, since in a perfect society
+there would be few other activities for residents to perform (a point that
+anticipates Suits’ definition of both utopia and games, outlined below).
+In what follows, I extend this examination of utopian games through
+the lens of Cline’s Ready Player One to demonstrate the role of gaming in
+both utopian and dystopian contexts. Wade, the novel’s narrator and pro-
+tagonist, is a lonely, orphaned teenage boy who lives in a slum complex
+of trailers on the outskirts of Oklahoma City. The novel takes place in
+2044, and depicts a bleak landscape of overcrowded cities, endemic food
+shortages, and social malaise. The world is crumbling, faced with poverty,
+environmental collapse, and global violence. But Wade does attempt to
+escape this bitter reality by logging onto the Ontologically Anthropocentric
+Sensory Immersive Simulation. Nicknamed “The Oasis,” this computer
+software creates a gigantic online universe that has reshaped society, and is
+essentially humanity’s electronic refuge from the environmental and social
+deterioration of the twenty-first-century world.
+Wade underscores the contrast between this online utopia and the dis-
+mal environment of the “real” world, saying “Things used to be awesome,
+but now they’re kinda terrifying. . . . Human civilization is in ‘decline.’ Some
+people even say it’s ‘collapsing.’” In contrast, Wade initially views the OASIS
+with unbridled enthusiasm. “Luckily, I had access to the OASIS, which was
+like having an escape hatch into a better reality. . . . It was my playground
+and my preschool, a magical place where anything was possible. The OASIS
+is the setting of all my happiest childhood memories.”10
+an online utopia
+While Wade’s quest to navigate the OASIS forms one setting for Ready
+Player One, the novel mirrors Wade’s upbringing with that of the OASIS
+programmer James Halliday. Like Wade, Halliday was often lonely and had
+difficulty connecting with his family. Both Wade and Halliday are socially
+ostracized, but both find a refuge in gaming and form a close-knit circle of
+fellow gamers. For Wade, this translates into a passion for Halliday’s Easter
+Egg Hunt. Like most “gunters” (egg hunters), Wade obsessively studies
+1980s pop culture and games to reveal clues that Halliday might have left in
+the OASIS. Wade’s goal is to navigate online puzzles to claim the ultimate
+prize, ownership of Halliday’s software company, immense wealth, and
+virtually unlimited control of the OASIS itself.
+Wade often reflects on the importance of the “Hunt” and the OASIS
+as a source for his own identity. “My generation had never known a world
+without the OASIS. To us, it was much more than a game or an entertain-
+ment platform. It had been an integral part of our lives for as far back as
+we could remember. We’d been born into an ugly world, and the OASIS
+was our one happy refuge.”11 Not only does Wade’s experience of growing
+up obsessed with video games and 1980s kitsch resemble James Halliday’s
+boyhood, it also resonates with Cline himself. In an interview published
+after the release of Ready Player One, Cline points out, “I grew up con-
+suming mass quantities of science fiction novels, Dungeons and Dragons
+supplements, comic books, movies, and video games. And I never really
+outgrew any of it. Like most geeks of my generation, I still adore all of the
+pop culture of my youth.”12
+In this way, Ready Player One presents a classic trope of the utopian
+genre, shifting the chronological focus of time itself. One of the conventions
+of the genre is to disorient the reader, as a way of introducing perspectives
+on society and social change that might normally be rejected out of hand.
+This is clearly the case in the prototypical utopian novel of the nineteenth
+century, Edward Bellamy’s Looking Backward. Bellamy’s protagonist falls
+asleep in the year 1886 and wakes up in the year 2000 to find America sud-
+denly transformed into a virtual paradise through the government control
+of employment and industry. Late in the novel, Bellamy describes a vivid
+nightmare in which his central character returns to the nineteenth century.
+His gentleman narrator, once steeped in Gilded-Age decadence, is appalled
+at the era’s inequality, and frustrated by his efforts to explain the mutual
+cooperation that shaped his futuristic vision. Bellamy uses these chronolog-
+ical shifts to underscore and move between their respective eutopian and
+dystopian settings.
+In Ready Player One, Cline does the same thing, but what facilitates
+the contrast between a dystopian present and its possible eutopian alter-
+native is not dreams and wakefulness, as with Bellamy. Instead, Cline uses
+games and play to constantly shift between eutopian and dystopian settings.
+However, Cline extends the simple coin-operated arcade games that per-
+meated his youth (and the experience of his character, Halliday) to imagine
+a truly immersive and global electronic world in the OASIS. This VR envi-
+ronment, Wade explains, completely transformed society. “The OASIS
+would ultimately change the way people around the world lived, worked,
+and communicated. . . . Even though it was initially marketed as a new
+kind of massively multiplayer online game, the OASIS quickly evolved into
+a new way of life.”13 It won’t be until the novel’s conclusion that Wade sees
+the potential damage of this online escapism, both for individuals and the
+global community.
+In the real world, Wade is abused, orphaned, lonely, and hopeless.
+But, in the OASIS, he enjoys school, excels in many classes, hangs out with
+friends. In a sense, the OASIS is the inverse of Wade’s ordinary experiences.
+However, he explains, one group that threatens this idyllic environment,
+and the tranquil OASIS itself, is a massive technology corporation—IOI
+(Innovative Online Industries), which hopes to control the OASIS by
+winning Halliday’s contest, using underhanded, even violent means.
+Throughout the novel, IOI employees threaten and even attempt to kill
+gamers that are getting close to winning the contest, including Wade and
+several of his friends.
+Agents for IOI (called “The Sixers” because they have six digit num-
+bers, rather than names, for their login identities) are the story’s villains, not
+only because they use real-life violence and intimidation but also because
+they challenge the OASIS’s idyllic environment itself. Wade explains: “The
+moment IOI took it over, the OASIS would cease to be the open-source
+virtual utopia I’d grown up in. It would become a corporate-run dystopia,
+an overpriced theme park for wealthy elitists.”14
+This juxtaposition between the OASIS as an online “escape hatch” from
+reality and the threats of dystopian encroachment make Ready Player One
+a deeply contradictory utopian novel. Cline’s “real world” of 2044 is crum-
+bling apart, but most of the novel takes places in a blissful online environ-
+ment featuring interstellar exploration, high adventure, engaging (and free)
+public education, and social interaction to anyone at any time. In short,
+Ready Player One features overlapping paradoxes—a utopia within a dysto-
+pia, a futuristic setting obsessed with the past, and characters playing elab-
+orate games within the broader gaming environment of the OASIS itself.
+The OASIS’s “gunters” like Wade compete in matches of classic 1980s video
+games, solve puzzles, play cinematic role-playing games pretending to be
+characters in Halliday’s favorite movies, and navigate a “Tomb of Horrors”
+modeled after a Dungeons and Dragons adventure. As Wade points out on
+his quest to solve Halliday’s egg hunt, “All of the intervening layers slipped
+away, and I lost myself in the game within the game.”15
+But perhaps the most paradoxical facet of Ready Player One is charac-
+ters’ changing perceptions of the OASIS itself. While Halliday and Wade
+initially view the OASIS with optimism, even reverence, Cline also presents
+a perspective of the OASIS not as a haven but as a corrupting influence, nur-
+turing isolation and global indifference. Halliday’s business partner, Ogden
+Morrow, becomes so disillusioned at humanity’s escape to the OASIS that he
+argues with Halliday and later laments “the OASIS has evolved into some-
+thing horrible” and “had become a self-imposed prison for humanity.”16
+the big red button
+The recurring question in Cline’s novel is whether online games like the
+OASIS enhance or reduce interpersonal communication, education, and
+social interaction. Both Wade and Halliday long for isolation and escape
+from the “real world,” seeing the OASIS as their refuge from emotional pain
+and the hardships of everyday life. Though normally a social recluse, Wade’s
+skills in OASIS gaming make him a celebrity “gunter,” winning product
+endorsements, making a fortune, and exciting his adoring fans. “In the
+OASIS,” Wade points out, “I got invited to the most exclusive parties. I went
+to all the hippest clubs and never had to wait in line. I was a pop-culture
+icon, a VR rock star. And, in gunter circles, I was a legend. Nay, a god.”17
+Wade’s enthusiasm wavers as he pursues the “Hunt.” At one point,
+Wade looks at his bleak surroundings and sophisticated OASIS equipment
+and admits, “I’d come to see my rig for what it was: an elaborate contraption
+for deceiving my senses, to allow me to live in a world that didn’t exist. Each
+component of my rig was a bar in the cell where I had willingly imprisoned
+myself. . . . In real life, I was nothing but an antisocial hermit. . . . I was just
+another sad, lost, lonely soul, wasting his life on a glorified video game.”
+During one of the few scenes in the book in which Wade actually goes out-
+doors, he hints at the deterioration and despondency that permeate society
+“A thick film of neglect . . . covered everything in sight. The streets, the
+buildings, the people.”18
+This realization mirrors Wade’s own views of the broader world. When
+his friend (and the novel’s love interest) Art3mis asks him what he would
+do with the staggering sums of money left in Halliday’s will, Wade instantly
+replies that he’d live out the rest of his life on a spaceship, as far away from
+the problems of the world as he can get. Wade says he’d spend his life play-
+ing video games and watching movies—a decision that seems abhorrent
+to Art3mis, who hopes to use the winnings to fight global starvation. But
+Wade’s ambiguous outlook toward the OASIS and human decline through-
+out the novel prompts him to revise his earlier escapist longings. When he
+ultimately succeeds in winning the “Hunt,” Wade revises his previous plan
+to abandon the world, vowing “to feed everyone on the planet” and “make
+the world a better place.”19
+Cline’s OASIS setting is simultaneously utopian and dystopian—as it
+enhances education and ignites a player’s imagination on one hand, and
+leads to abandonment of the world’s pressing needs on the other. Perhaps
+the clearest demonstration of this OASIS ambiguity occurs at the novel’s
+concluding scene. Having completed the “Hunt,” Wade gains control of
+Halliday’s OASIS (both as a majority stockholder in the conventional world
+and as an omnipotent online avatar in its online format). But Wade’s most
+perplexing reward is yet to come—a digital image of James Halliday appears
+before him and shows Wade “the Big Red Button” which Halliday describes
+by saying, “If you press it, it will shut off the entire OASIS and launch a
+worm that will delete everything . . . including all of the OASIS source code.
+It will shut does the OASIS forever.” The fact that Halliday would offer the
+possibility of irrevocably destroying his own creation, suggests the ambigu-
+ous place that gaming holds in Cline’s utopia. While the novel doesn’t reveal
+whether Wade obliterates the online world that had previously given him
+solace, Halliday’s avatar provides one final piece of advice, which might
+serve as Cline’s cautionary tale to all OASIS “gunters”—“I created the OASIS
+because I never felt at home in the real world. . . . Don’t make the same mis-
+take I did. Don’t hide in here forever.”20
+grasshoppers and gamers
+While Cline adopts a nuanced perspective on games, arguing that ­ players
+experience both elation and despair, philosopher Bernard Suits’ ­ classic
+account of game playing takes an approach that is emphatically, even
+euphorically, positive. In The Grasshopper: Games, Life and Utopia, Suits
+begins by turning the classic Aesop’s fable of the ant and the grasshopper
+on its head. In the traditional story, the hard-working ant prepares for
+the winter and turns his back on the carefree grasshopper, who played
+throughout the summer, and later comes begging to the ant during a chilly
+snowstorm. Suits writes his discussion of games as a lecture by the grass-
+hopper and his various disciples on the virtues of play and the necessity of
+games, arguing that we should view the grasshopper’s whimsical attitude as
+the key to the good life.
+Discussing the contradictory attitudes of grasshopper and ant, Suits
+maintains: “If there were no winters to guard against, then the Grasshopper
+would not get his come-uppance nor the ant his shabby victory. The life of
+the Grasshopper would be vindicated and that of the ant absurd.” In a uto-
+pia (removed from the dangers of starvation and other worldly concerns)
+all people would be grasshoppers—spending their days in a constant state
+of play. Due to “accelerating advances in technology,” the grasshopper con-
+tinues, “the time will come when there are in fact no winters. We may there-
+fore conclude that although my timing may be a bit off, my way of life is not
+wrong in principle.”21
+While this grasshopper/ant dynamic describes the frame story of Suits’
+book, most of the text is dedicated to formulating and testing Suits’ own
+definition of games themselves. The impetus for this endeavor, Suits states
+in his preface, is the “widespread disenchantment with the search for defini-
+tions that currently prevails in the philosophical community” as evidenced
+by Ludwig Wittgenstein’s observation that games are undefinable, and, by
+extension, that the search for any definition is ultimately hopeless.22
+Not so, argues Suits, who examines many facets of gameplay before
+arriving at a fairly long definition: “To play a game is to engage in activity
+directed towards bringing about a specific state of affairs, using only means
+permitted by rules, where rules prohibit more efficient in favour of less effi-
+cient means.” Or, to put it simply: “Playing a game is the voluntary attempt
+to overcome unnecessary obstacles.”23 One implication of Suits’ definition,
+ironically, is that it means he is playing a game in the writing of this book
+itself. By creating a frame story of the grasshopper, ant, and disciples, Suits
+is adhering to the “rules” of a fable (it must tell a story about the interaction
+between animals to convey a broader social message) while advancing his
+approach to games. The most “efficient” method of conveying his definition
+would be to simply state it bluntly at the outset, but Suits chooses the “less
+efficient” route of concocting an elaborate story based on debating insects.24
+Nevertheless, after addressing potential challenges to this definition
+and discussing whether this explanation of games would apply to activi-
+ties such as playing Cops and Robbers and Ring around the Rosie (Suits
+replies—yes to the former and no to the latter), the grasshopper delivers a
+long soliloquy on the question: “Why must a life freed from the necessity to
+work be identical with a life dedicated to games?” Suits’ understanding of
+utopia supposes “All of the things ordinarily called work are now done by
+wholly automated machines. . . . There are so many goods being produced
+so abundantly that even the most acquisitive cravings . . . are instantly sat-
+isfied. . . . Yachts, diamonds, racing cars . . . and trips around the world are
+easily plucked from the environment.”25
+Amidst such abundance, Suits’ grasshopper reasons, “There is no longer
+any competition for love, attention, approval, or admiration, just as there
+is no longer any strife in the acquisition of material goods.” Friendships
+and romantic partners, Suits concludes, would be “every bit as accessible
+as yachts and diamonds” due to advances in interpersonal psychology, and
+without the day-to-day worries of earning a living. Suits’ vision of utopia
+is also free from the constraints of government or a legal system: “With no
+competing claims for goods requiring legislation and adjudication, there is
+no need for government.”26
+divergent views of a gaming utopia
+This perspective underscores one of many parallels between the utopias
+imagined by Suits and Cline. Both envision a future devoid of government
+and laws, but for diametrically opposite reasons. Cline’s crumbling, impov-
+erished world has simply given up on the idea of order and stability outside
+of the OASIS. Wade explains: “The once-great country into which I’d been
+born now resembled its former self in name only. It didn’t matter who was
+in charge. Those people were rearranging deck chairs on the Titanic and
+everyone knew it.”27 But Suits’ grasshopper imagines utopia as something
+entirely different. Ultimately, he insists, “Utopia is just a dramatization
+of the ideal of existence, and evil and wrong-doing are obviously incon-
+sistent with such an ideal.” As are, he would add, politicians, lawyers, and
+bureaucrats.28
+On a broader level, Suits’ description of a highly technical, computer-
+ized, environment where travel, adventure, and interpersonal relationships
+are all perfected and available every moment is identical to the OASIS in
+Ready Player One. Suits’ grasshopper argues that, since humanity’s every
+need could be easily and instantly satisfied in the highly technical utopia
+he has described, playing games remains “as the only remaining candidate
+for Utopian occupation, and therefore the only possible remaining constit-
+uent of the ideal of existence.” Other pursuits, such as building a house,
+might be undertaken, the grasshopper continues, but since more efficient
+methods of creating a home are widely available in a fully automated utopia
+(generating a building with robotics or merely by pressing a button) the
+carpenter would, according to Suits’ definition, be playing a game (build-
+ing a house using less efficient, rather than more efficient means). Thus, “a
+Utopian could engage in all of the achieving activities that normally occupy
+people in the non-Utopian world, but . . . the quality, so to speak, of such
+endeavours would be quite different.”29
+Like Suits’ utopian carpenter, Cline’s OASIS users become architects of
+not only futuristic homes but of entire VR worlds, constructing (or, more
+specifically, programming) them even though such buildings are inefficient
+(OASIS avatars don’t need shelter or sleep, and there are thousands of pre-
+made worlds already created for avatars to use). One “gunter” meticulously
+designs a private chat room to resemble a 1980s rec center (complete with
+low-tech VCRs and outdated Atari consoles, which would also be “ineffi-
+cient” since users have instant access to every type of media at any time
+through their OASIS consoles). Likewise, Wade goes out of his way to
+design a secret hideaway on an asteroid in a remote corner of the OASIS
+universe. Though Wade arranges his lair with flashy architecture and space
+for flying vehicles and menacing weapons, ultimately he is the only OASIS
+avatar to see his construction. This act of gaming-as-construction, which,
+for Suits, represents an ideal of “gamifying” ordinary life, comes to repre-
+sent Wade’s solitude and OASIS isolation.
+While Suits and Cline take divergent perspectives on gaming’s social
+influence, they agree that the term “game” can be applied to a host of activi-
+ties beyond the familiar products like Monopoly or Scrabble. Cline’s OASIS
+users experience an entire game-based world, but can also tour a “museum”
+of the earliest video games—these “games within a game” form an impor-
+tant backdrop to characters’ experience in the OASIS. Likewise, Suits’ phi-
+losophy pushes the understanding of games to its outer limits. Plumbing,
+carpentry, writing, and storytelling all have the potential to be “games” in
+Suits’ view. Ultimately, in a 1967 article, Suits wonders aloud, “Is life a game
+we are playing.”30
+It should come as no surprise, then, that Suits views literary genres as a
+type of game between reader and author. In a 1985 essay, Suits demonstrates
+how the detective story “is simply a puzzle to be solved by the reader.” That
+is, detective fiction presents a puzzle in which the reader must attempt to
+identify the murderer in the story before the author reveals the identity.
+Suits argues that detective novelists, like baseball pitchers and crossword
+puzzle creators, are playing an elaborate game with readers, specifically a
+“two-move puzzle-game which permits the involvement of both author and
+reader as players.” Like any game, Suits continues, the “detective puzzle”
+must follow identifiable rules—the writer, for example, must have the mur-
+derer be one of the characters mentioned in the plot (rather than simply
+revealing a brand-new actor at the story’s conclusion). The reader, mean-
+while, must read pages sequentially (thus, the reader employs a less efficient
+means of deducing the murderer’s identity, rather than just skipping to the
+story’s final page).31
+While Suits presents some ways in which other literary forms (such as
+the sonnet) might be viewed as games, his extensive discussion of Utopia
+in The Grasshopper suggests that utopian fiction might produce just such
+a “gamified” vision of literature. Alongside the detective story, the uto-
+pian novel (such as More’s Utopia or Bellamy’s Looking Backward or other
+classics of the genre) requires both authors and readers to accept certain
+roles and rules. The utopian author must use the framework of a story
+(usually including a remote setting, intrepid visitors to a distant land, and
+outspoken guides who explain the society’s history and structure). So,
+utopian novelists (in contrasts to writers of manifestos or other political
+tracts) play their role in this game by adopting a less efficient method
+(contriving a utopian setting and frame story) rather than a more effec-
+tive method (a straightforward essay on necessary social change). In this
+way, like Suits’ own invention of philosophical insects in The Grasshopper,
+utopian novelists are playing a game, or “gamifying” their own vision of
+the ideal society.
+Six years after publishing The Grasshopper, Suits contributed an essay
+entitled “The Grasshopper: Posthumous Reflections on Utopia.” He began
+by arguing that the Cockaygne fantasy of Medieval Europe are “an early ver-
+sion of a society enjoying well advanced automation” like the type outlined
+by The Grasshopper. In such an environment, “unless people play games in
+Utopia there will be nothing whatever to do, and everyone will die—or go
+mad—of boredom.”32
+At the conclusion of this essay, the grasshopper exacts his final revenge
+on the miserly ant, pointing out humanity’s need for games with the inev-
+itable arrival of full-scale automation. “The ants all exhort us to store up
+food for winter, but the more serious problem is to store up games for sum-
+mer,” which will come sooner than we expect.33
+Like Cline, Suits anticipates the proliferation of increasingly complex
+games as the world becomes more technologically engrossed. Suits’ grass-
+hopper, if he were to survive enough winters to experience Cline’s world of
+2044, would likely view the OASIS with the same wide-eyed amazement
+that Wade himself did at the outset of Ready Player One. But Suits’ utopia
+is one without a downside, one in which players never tire of games (and,
+he suggests, one in which games themselves have been perfected so as not
+to produce the malaise that haunts Halliday and Wade). Cline, however,
+avoids such simplification. For him, games can be positive and engaging
+when experienced in moderate doses, but can also reveal a destructive dys-
+topian side, alienating players, even threatening the world itself. In the end,
+we can understand why Wade would be tempted to push the big red button
+at the novel’s conclusion and obliterate the online game that he had once
+loved.
+the ambiguity of gaming
+Suits concludes The Grasshopper with a prophecy of the future. Summarizing
+all of his wisdom, the grasshopper contends, “Games we play in our
+non-Utopian lives are intimations of things to come.” As humanity moves
+ever closer to full-scale automation and computerization of work and daily
+life, the grasshopper explains, games become “clues to the future. And their
+serious cultivation now is perhaps our only salvation.”34 This perspective
+on the necessity of gaming certainly resonates with the writings of Jane
+McGonigal, one of the most outspoken and influential commentators on
+the role of digital gaming in contemporary life. McGonigal shares Suits’
+emphasis on the utopian possibilities of play, but sees games as essential,
+not only as foreshadowing the future, but in shaping everyday life in the
+present.
+In her bestselling book Reality Is Broken, McGonigal asks, “Where, in
+the real world, is that gamer sense of being fully alive, focused, and engaged
+in every moment? Where is the gamer feeling of power, heroic purpose, and
+community? . . . Reality isn’t engineered to maximize our potential. Reality
+wasn’t designed from the bottom up to make us happy.”35 McGonigal notes
+that gaming produces a sense of wonder and awe that is generally miss-
+ing from everyday experience. This is similar to Wade’s description of elec-
+tronic gaming—amidst the OASIS’s impressive graphic interface, Wade still
+feels drawn to “classic” video games from bygone decades. “These games”
+he explains, “were outdated digital dinosaurs. . . . But I was a gunter, so
+I didn’t think of them as quant low-res antiques. . . . When I played the
+classics, I did so with a determined sort of reverence.”36
+Reality Is Broken references Suits several times and summarizes his
+definition of games: “Playing a game is the voluntary attempt to overcome
+unnecessary obstacles.” But McGonigal adds a critical question of her own,
+“Why do unnecessary obstacles make us happy?” Her response is remark-
+ably straightforward—“Games make us happy because they are hard work
+that we choose for ourselves.” That is, games are addictive and engaging
+in ways that the rest of life is not, because games provide the satisfaction
+of overcoming a challenge with the sense of self-determination, the feel-
+ing of choosing an activity we enjoy. Games have been increasing in popu-
+larity throughout the world not just because they are escapist, McGonigal
+contends, but because games provide “a concentrated state of optimistic
+engagement. . . . We are actively conditioning our minds and bodies to be
+happier.”37
+In her early chapters, McGonigal seems to echo Suits’ observation that
+gaming is synonymous with “the good life” and provokes unbridled enjoy-
+ment. “Computer and video games are fulfilling genuine human needs that
+the real world is currently unable to satisfy. Games are providing rewards
+that reality is not. . . . They bring us together in ways that reality is not.”
+Likewise, Cline’s Ready Player One illustrates how gaming can provide a
+sense of accomplishment and direction that is often absent in players’ lives.
+In describing OASIS history, Wade explains how his life was changed when
+“the Hunt for Halliday’s Easter Egg began. That was what saved me, I think.
+Suddenly, I’d found something worth doing. . . . Something to look forward
+to. The moment I began searching for the egg, the future no longer seemed
+so bleak”38
+As Reality Is Broken points out, people throughout the world spend
+“more than 3 billion hours a week gaming,” suggesting that the OASIS-
+obsessed society outlined in Ready Player One is not such an unlikely
+development. McGonigal argues that humanity’s “exodus from reality” will
+likely continue, even accelerate in the coming years but comforts readers
+by explaining how games can become “a surprising, inventive, and effec-
+tive way to intervene in a social crisis,” even becoming “potential solutions
+to our most pressing social problems.” Rather than bemoaning gaming’s
+popularity, McGonigal and Cline see games as an inevitable and essential
+part of society for future generations. While Cline points to MMOs and
+social networking as the foundation for OASIS gameplay, McGonigal sees
+skillful game developers urging players to improve communication skills
+and cooperation through gaming. McGonigal concludes (in a statement
+that OASIS users like Wade would applaud), “Games, in the twenty-first
+century, will be a primary platform for enabling the future.”39
+Yet, McGonigal cautions, it is precisely this rush of enthusiasm and
+excitement that gives games the potential to limit players’ social interaction
+and engagement with the real world. While games provide a psychologi-
+cal sense of “flow” or timelessness and intense concentration, McGonigal
+warns, “Too much flow can lead to happiness burnout.” So, for McGonigal
+as well as Cline, games are a double-edged sword. They can lead to escapism
+and indifference or cause players to become despondent at the real world’s
+stifling limitations. But the reverse is also true—games can enhance social
+bonds, facilitate teamwork, improve education, and motivate players toward
+a greater engagement in the world around them. As McGonigal puts it,
+“games can be a real solution to problems and a real source of happiness.”40
+As a result, she maintains, “the central dilemma of the game industry”
+in recent years, and the challenge McGonigal herself highlights in Reality
+Is Broken, is “how to enable gamers to play more without diminishing their
+real lives.”41 This same question permeates Ready Player One, and antici-
+pates the book’s conclusion in which Wade completes the “Hunt” and meets
+the online representation of his idol James Halliday. The ultimate irony in
+Cline’s OASIS utopia is that its programmer, James Halliday, views his VR
+creation not with pride or veneration (as many “gunters” would) but with a
+degree of skepticism, even scorn. Wade’s “prize” for winning the “Hunt” is
+not only money and fame, but that he alone possesses the ability to destroy
+the OASIS entirely—a paradox that mirrors the novel’s contradictions on
+gaming itself. And Wade’s motivation, at the novel’s conclusion, is to sus-
+pend gaming in favor of real-world relationships and engagement. Halliday,
+by programming himself into the OASIS’ ultimate scene, is able to impart
+an important perspective to gamers like Wade: “I realized, as terrifying and
+painful as reality can be, it’s also the only place where you can find true
+happiness. Because reality is real.”42
+This interplay between the “game” and the “real” is what rests at the
+heart of the utopian genre, and where Ready Player One can contribute
+most to our understanding of the utopian tradition. The foundational
+aspect of utopian fiction is to complicate the reader’s understanding
+of the expectations and mores that constitute reality. Utopian writing
+consists of “estrangement”—disorienting readers so that they challenge
+normal reality and, conversely, accept ideas or alternatives they might
+ordinarily dismiss. Like Looking Backward, Ready Player One leaves
+the reader unbalanced—not certain whether any particular setting (the
+OASIS or conventional world) is to be embraced or avoided. Doing this
+requires not the simplistic assessment of games as wholly utopian pro-
+jects, as Suits argues. Instead, Kline’s novel embodies a more nuanced
+understanding of utopianism itself—in which the seemingly idealized
+world of the OASIS is actually perilous and the apocalyptic conventional
+world is one worth saving, even celebrating. By playing with the conven-
+tions of gaming, Ready Player One embodies the paradoxical elements of
+utopian fiction itself.
+justin nordstrom is an associate professor of history at Penn State
+Hazleton, where he teaches courses on American history, utopian literature,
+and globalization. His research focuses on American cultural history, print
+culture, and food history from the late nineteenth through the twenty-first
+centuries.
+notes
+4. 5. 6. 1. Ernest Cline, Ready Player One (New York: Crown, 2011). I am grateful to sev-
+eral members of the Society for Utopian Studies for their input on this essay,
+especially Francesco Crosso, Stephanie Boluk, Lyman Sargent, Gib Prettyman,
+and Brian Greenspan.
+2. On Cline’s awards, see “2012 Prometheus Best Novel Winners Announced,”
+accessed July 17, 2012, http://www.lfs.org/releases/2012Winners.shtml and “Alex
+Awards,” accessed July 30, 2012, http://www.ala.org/yalsa/alex-awards.
+3. Chris Kammerud, “Ready Player One by Ernest Cline,” Strange Horizons,
+February 20, 2012, accessed July 30, 2012, http://www.strangehorizons.com/
+reviews/2012/02/ready_player_on.shtml. For other reviews of Ready Player One,
+see Janet Maslin “A Future Wrapped in 1980s Culture,” New York Times, August
+14, 2011; Eric Brown, “Science Fiction Choice—Reviews,” Guardian (London),
+August 4, 2011. On Warner Bros. studio purchasing the rights to Cline’s book,
+see Angela Watercutter, “Fanboys Scribe Pens Ultimate Nerd Sci-Fi Novel,
+Ready Player One,” Wired Magazine, August 15, 2011, accessed July 30, 2012,
+http://www.wired.com/underwire/2011/08/ernie-cline-ready-player-one/.
+John Scalzi, “The Big Idea: Ernest Cline,” posted August 16, 2011, http://www
+.wired.com/underwire/2011/08/ernie-cline-ready-player-one/, also qtd. in
+Maslin, “A Future Wrapped in 1980s Culture.”
+Bernard Suits, The Grasshopper: Games, Life and Utopia, rev. ed. (Peterborough:
+Broadview Press, 2005); Jane McGonigal, Reality Is Broken: Why Games Make
+Us Better and How They Can Change the World (New York: Penguin, 2011).
+Cline, Ready Player One, 120.
+7. Thomas More, Utopia. Norton Critical Edition (New York: W. W. Norton,
+1992); Charlotte Perkins Gilman, Herland. New York: Pantheon, 1979.
+8. Philip Abbott, “Utopians at Play,” Utopian Studies (Winter 2004): 44–62; 44. For
+a contrasting vision of utopians and play, see Edward Rothstein, “Utopia and Its
+Discontents,” in Rothstein, Herbert Muschamp, and Martin Marty, Visions of
+Utopia (New York: Oxford University Press, 2004); Krishan Kumar, Utopia and
+Anti-Utopia in Modern Times (New York: Blackwell, 1991).
+9. 10. 11. 12. 13. 14. 15. Abbott, “Utopians at Play,” 45, 58.
+Cline, Ready Player One, 17–18.
+Cline, Ready Player One, 34.
+Qtd in Scalzi, “The Big Idea: Ernest Cline.”
+Cline, Ready Player One, 56.
+Cline, Ready Player One, 33.
+Cline, Ready Player One, 105. Wade makes this point several times throughout
+the novel. Reflecting on the multiplicity of games and the all-consuming nature
+of OASIS experience, he explains, “I was now playing a simulation within a
+simulations. A game within a game” (202).
+16. 17. Cline, Ready Player One, 120.
+Cline, Ready Player One, 198.
+18. Cline, Ready Player One, 198, 276. In “A Future Wrapped in 1980s Culture,”
+Maslin points out Cline’s paradoxical description of OASIS gaming. While the
+OASIS is a direct contrast to “an impoverished, resource-depleted Earth,” she
+notes, relationships between “gunters” are tinged with sadness because “They
+live as shut-ins and don’t know one another in the flesh.”
+19. Cline, Ready Player One, 371.
+20. Cline, Ready Player One, 364.
+21. Suits, The Grasshopper, 27.
+22. Suits, The Grasshopper, 21.
+23. Suits, The Grasshopper, 48–49, 55. For Suits’ earlier attempt to define game play,
+see Suits, “What Is a Game,” Philosophy of Science (1967): 316–21.
+24. Suits admits that he is not only defining but playing a game toward the end of
+his book, when the grasshopper wonders out loud, “Why doesn’t he simply
+argue his position in a straightforward manner, like other authors who produce
+philosophical works? Why introduce the fanciful complication of presenting
+his thesis through the mouths . . . of three insects. . . . He has created a game by
+imposing upon his philosophical enterprise a constitutive rule which requires
+him to express his arguments only within those literary constraints” (143–44).
+Thus, Suits creates a debate not simply between the insects in his book, but
+between its protagonist and the author himself.
+25. Suits, The Grasshopper, 141, 149–50.
+26. Suits, The Grasshopper, 150–51.
+27. Cline, Ready Player One, 201.
+28. Suits, The Grasshopper, 151. To state Suits’ understanding of utopia in positive
+terms—since an idyllic human existence would certainly include harmonious
+relationships, abundant leisure, good physical and mental health, and ­ abundant
+resources, these would all be included in Suits’ philosophy of utopia.
+29. Suits, The Grasshopper, 154–58.
+30. 31. Suits, “Is Life a Game We Are Playing,” Ethics (April 1967): 209–13.
+Suits, “The Detective Story: A Case Study of Games in Literature,” Canadian
+Review of Comparative Literature (June 1985): 200–219; 201, 212.
+32. Suits, “The Grasshopper: Posthumous Reflections on Utopia,” in Utopias,
+edited by Peter Alexander and Roger Gill, 197–209 (La Salle, IL: Open Court
+Publication Co., 1984), 197, 198. Numerous utopian texts reflect on the necessity
+of games to provide residents of a perfect society with something to do. In
+some cases, such as Ian Banks’s “Culture” series, games are necessary to provide
+excitement in a society that has become bored. In others, such as Orson Scott
+Card’s Ender’s Game, the futuristic society depends on game play as protection
+from alien invaders. See Banks, The Player of Games (New York: Orbit Books,
+1988); Card, Ender’s Game, rev. ed. (New York: Tor Books, 2010).
+33. Suits, The Grasshopper: Posthumous Reflections, 208.
+34. Suits, The Grasshopper, 159.
+35. McGonigal, Reality Is Broken, 4.
+36. Cline, Ready Player One, 13.
+37. McGonigal, Reality Is Broken, 22, 27, 28.
+38. McGonigal, Reality Is Broken, 4; Cline, Ready Player One, 14.
+39. McGonigal, Reality Is Broken, 6, 7, 10, 13.
+40. McGonigal, Reality Is Broken, 13.
+41. McGonigal, Reality Is Broken, 43.
+42. Cline, Ready Player One, 364.
